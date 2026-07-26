@@ -2,7 +2,7 @@
 
 This repository contains the material associated with the blogpost [Android greybox fuzzing with AFL++ Frida mode](https://blog.quarkslab.com/android-greybox-fuzzing-with-afl-frida-mode.html).
 
-In particular:
+In particular:shangti0168
 
 - A [CMakeLists.txt](https://github.com/quarkslab/android-fuzzing/blob/main/AFLplusplus/CMakeLists.txt) file that allows to build AFL++ Frida mode for Android 12 aarch64;
 - The [Android application](https://github.com/quarkslab/android-fuzzing/blob/main/apk/qb.blogfuzz.apk) used as the fuzzing target;
